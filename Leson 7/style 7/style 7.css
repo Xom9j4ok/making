@@ -1,0 +1,19 @@
+h1 {font-style: italic;
+    color:white;
+    text-align: center; }
+h3 {text-align: center; } 
+
+#href {
+    
+    background-color: black;
+  }
+  #hre {
+    align-items: flex-end;
+    background-color: black;
+  }
+img{
+    flex-direction: row;
+justify-content: center; align-items: center;
+ float: inline-end;}
+
+#ki{background-color: yellow;}

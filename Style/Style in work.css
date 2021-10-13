@@ -1,0 +1,6 @@
+h1 {font-style: italic;
+    text-align: center; }
+h3 {text-align: center; }
+th:hover{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
+}
